@@ -1,2 +1,2 @@
-# nuxt3-primevue3-turborepo
-Turborepo with Nuxt3 and PrimeVue3.
+# nuxt2-primevue2-turborepo
+Turborepo with Nuxt2 and PrimeVue2.
